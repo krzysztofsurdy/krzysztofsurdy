@@ -1,9 +1,11 @@
-### Yo, I'm Krzysztof 👋
+### Krzysztof Surdy
 
-Senior Software Engineer and wannabe Applied AI Engineer from Poland. 10+ years building large-scale SaaS and e-commerce backends, mostly in PHP/Symfony with some TypeScript and Python.
+Senior Backend Engineer from Poland. 9+ years building SaaS and e-commerce backends in PHP and Symfony - payments, pricing, search and B2B platforms.
 
-These days I work as a contractor on big projects for my clients, and I put LLM agents and MCP servers out into the wild for them. On the side I write skills for coding agents in [code-virtuoso](https://github.com/krzysztofsurdy/code-virtuoso), which is at around 1.5k unique downloads so far while at the same time trying to start some OSS initiatives.
+Lately I ship AI features into production:
+- Tech lead on an MCP server exposing 15M+ vacation rentals to ChatGPT and Claude
+- LLM agents for production incident investigation and sprint planning
+- [code-virtuoso](https://github.com/krzysztofsurdy/code-virtuoso) - 68 skills and 20 agents for Claude Code, Codex and other coding assistants, with [1.7k+ installs on skills.sh](https://www.skills.sh/krzysztofsurdy/code-virtuoso)
+- [Snipaya](https://snipaya.app) - my macOS screenshot annotator: on-device blurring of 217 secret types, and a local MCP server so AI assistants can mark up images
 
-### Got an interesting project or smth? 📫
-
-Ping me at surdykrzysztof@gmail.com
+Open to contract work. Reach me at surdykrzysztof@gmail.com or on [LinkedIn](https://www.linkedin.com/in/krzysztof-surdy/).
