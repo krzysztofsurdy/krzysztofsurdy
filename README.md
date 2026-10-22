@@ -8,6 +8,8 @@ These days I mostly make LLMs do real work in production:
 - [code-virtuoso](https://github.com/krzysztofsurdy/code-virtuoso) - 68 skills and 20 agents for Claude Code, Codex and friends, [1.7k+ installs](https://www.skills.sh/krzysztofsurdy/code-virtuoso) and counting
 - [Snipaya](https://snipaya.app) - my macOS screenshot annotator. It blurs 217 kinds of secrets on device, and your AI assistant can draw the arrows for you over MCP
 
+Fun fact: I'm in the Cyberpunk 2077 credits - back at GOG I built the rewards system for its launch.
+
 Currently poking at the [Symfony AI](https://github.com/symfony/ai) OSS initiative, hoping I can make someone's world a bit better.
 
 Got an interesting project or smth? Ping me at surdykrzysztof@gmail.com or on [LinkedIn](https://www.linkedin.com/in/krzysztof-surdy/).
